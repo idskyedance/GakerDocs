@@ -10,13 +10,13 @@
 * 支持对用户或部门添加多条“特殊规则”
 * 当某个部门或用户设置了特殊规则，则遵循特殊规则；如果某个用户同时在单个用户规则和部门规则中被包含，那么遵循个人用户的规则，也即“公司、部门、个人”，以更小粒度的规则为准；
 
-<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-001.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="//swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-001.png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**公海自动回收限制**</mark>
 
 主动领取分配规则，被公海自动回收的数据，可限制原归属人多长时间内不允许再次领取，如下图所示，在主动领取型选项下增加“自动回收后原归属人领取时间限制”勾选项即可
 
-<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-002.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="//swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-002.png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**其他用户体验优化**</mark>
 
@@ -30,11 +30,11 @@
 
 应用数据列表支持看板模式，你可以在数据列表顶部从列表模式切换到看板模式，也可以在此设置看板的分组字段，如下图所示。
 
-<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-003.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="//swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-003.png" alt=""><figcaption></figcaption></figure>
 
 系统管理员还可以在管理后台为所有用户统一配置列表的查看模式，如下图所示。
 
-<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-004.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="//swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-004.png" alt=""><figcaption></figcaption></figure>
 
 ### `v4.18.12` 2022.11.22
 
@@ -61,7 +61,7 @@
 * 标题字段支持变更字段类型，目前仅支持文本和自增编号的互换
 * 同步新建关联从应用时，支持关联已有数据，点击下图中的关联数据按钮，可选择未被关联的数据
 
-<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-005.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="//swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-005.png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**字段相关优化**</mark>
 
@@ -124,7 +124,7 @@
 * 支持拖拽选项顺序
 * 支持相邻两个选项间的转化率统计和显示，按照上述配置完成后界面上可见的选项，统计相邻两个选项值的比值，上方选项为分母，下方选项为分子，转化率数据展示在如图占比数据下方，转化率仅在勾选了”每层累计当前与所有下层指标值”时展示
 
-<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-006.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="//swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-006.png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**审批详情页优化**</mark>
 
@@ -144,7 +144,7 @@
 
 新增应用数据时，可以设置要求从应用必填，即新增时主从应用必须都有值，你可以在「管理后台」从应用的「关联应用」字段中进行配置：
 
-<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-007.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="//swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-007.png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**值得你关注的优化**</mark>
 
@@ -191,15 +191,15 @@
 
 之前，我们收到很多关于工作流通知内容的编辑器的吐槽，编辑内容的时候会出现各种莫名其妙的问题。现在我们对这个编辑器进行了重构，修复了之前的很多问题，欢迎体验。
 
-<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-008.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="//swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-008.png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**应用数据列表支持金额类字段合计**</mark>
 
-<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-009.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="//swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-009.png" alt=""><figcaption></figcaption></figure>
 
 如上图所示，**我们在应用列表页增加了合计项**，合计支持数字字段、金额字段、计算字段、汇总字段以及引用字段(引用的是数字和金额)，你可以在管理后台->字段属性中进行配置：
 
-<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-010.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="//swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-010.png" alt=""><figcaption></figcaption></figure>
 
 除此之外，我们还对**列表页的流程状态字段的样式**进行了升级，采用单独的背景的背景填充样式，与其它选项背景填充样式进行区分，同时能让用户从视觉上个更容易区分“初始、结束、中间”不同状态类型，具体的展示效果如上图中的“业务流程”字段所示。
 
@@ -214,7 +214,7 @@
 
 * 当状态=A(单选字段)或状态包含A(多选字段)时，返回50，否则返回100
 
-<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-011.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="//swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-011.png" alt=""><figcaption></figcaption></figure>
 
 **数据详情页布局优化**
 
@@ -223,7 +223,7 @@
 * 取消了数据摘要区域，这部分区域使用的人少，却占用了页面顶部的大部分空间，这个区域内的字段，我们将移动到第一个分栏中，如果你觉得不合适，可以调整一下布局的字段顺序
 * 流程状态，在电脑端改为单行展示，且样式进行了升级
 
-<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-012.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="//swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-012.png" alt=""><figcaption></figcaption></figure>
 
 * 详情页中子表单/关联对象等数据的表格进行了优化，采用更为紧凑的布局，根据字段值的长度自动调整表格列的宽度
 
@@ -242,7 +242,7 @@
 
 数据导出先已经支持直接主对象与子表单和从对象一起导出，比如，你可以在导出客户的同时，选择将客户关联的订单一起导出，且导出Excel格式会自动合并单元格，数据展示更友好，下面是一个简单的示例：
 
-<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-013.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="//swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-013.png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**业务流程优化**</mark>
 
@@ -264,7 +264,7 @@
 
 * 动态定位字段展示优化，之前定位字段直接展示位置的文本，现变成链接，点击会弹出地图
 
-<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-014.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="//swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-014.png" alt=""><figcaption></figcaption></figure>
 
 * 修复前端代码编译问题导致的偶现系统的icon缺失问题
 * 修复在电脑端端编辑动态/跟进记录时导致默认定位丢失的问题
@@ -304,7 +304,7 @@ SalesWork CRM迁移到全新域名：crm.saleswork.cn，OpenAPI域名迁移至�
 
 * 业务流程、工作流程、审批流程的触发条件中，如果包含用户字段，则用户可配置成员、角色、部门
 
-<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-015.png"" alt=""><figcaption></figcaption></figure>
+<figure><img src="//swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-015.png"" alt=""><figcaption></figcaption></figure>
 
 * 工作流提醒中，用的比较多的情况是流程状态变更时提醒相关人员，但目前如果流程状态是自动流转的情况，则不会触发工作流提醒，这一版本中对此做了优化，流程状态是自动流转时也会触发提醒
 * 工作流程配置中，修改数据节点，当更新字段时用户字段时，弹窗的选人空间支持搜索
@@ -468,7 +468,7 @@ SalesWork CRM迁移到全新域名：crm.saleswork.cn，OpenAPI域名迁移至�
 
 我们在审批流程中增加了分支节点功能，你现在可以配置更加复杂的审批流程以应对复杂的审批业务。比如，你可以点击“新增分支”增加多条审批路径，然后为每条审批路径配置不同的条件，满足相应条件即进入相应的审批流程，如果数据满足多条审批路径，则根据优先级判断，进入优先级高的审批流程。
 
-<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-016.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="//swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-016.png" alt=""><figcaption></figcaption></figure>
 
 ### `v4.14.0` 2022.06.11
 
@@ -508,7 +508,7 @@ SalesWork CRM迁移到全新域名：crm.saleswork.cn，OpenAPI域名迁移至�
 
 具体的配置如下图所示，其中“合同←订单”表示订单关联合同，“订单→产品”表示订单关联产品。
 
-<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-017.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="//swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-017.png" alt=""><figcaption></figcaption></figure>
 
 除此之外，如果配置的审批人没有找到，比如上述示例中的产品没有归属人，那么整个审批节点都没有审批人，这时候我们会自动通过。即**审批节点的审批人为空时，自动通过，**具体情况会在审批详情展示
 
@@ -518,7 +518,7 @@ SalesWork CRM迁移到全新域名：crm.saleswork.cn，OpenAPI域名迁移至�
 
 数据贡献时，支持设置筛选条件了，你可以把符合条件的数据共享给其他人，而不是像之前那样，只能把自己权限范围内的所有数据共享给其他人。你可以在「管理后台」->「权限管理」->「数据共享」中进行配置：
 
-<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-018.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="//swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-018.png" alt=""><figcaption></figcaption></figure>
 
 ### `v4.13.5` 2022.05.27
 
@@ -546,11 +546,11 @@ SalesWork CRM迁移到全新域名：crm.saleswork.cn，OpenAPI域名迁移至�
 
 你可以在 管理后台 > 应用管理 > 业务流程 > 进入某条流程配置 > 状态定义->数据锁定 中进行配置
 
-<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-019.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="//swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-019.png" alt=""><figcaption></figcaption></figure>
 
 点击锁定配置，你可以看到如下配置界面，处于该状态下的数据，仅支持指定用户编辑指定字段，配置完成后，你可以在应用端体验相关功能。
 
-<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-020.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="//swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-020.png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**其他优化**</mark>
 
@@ -619,15 +619,15 @@ SalesWork CRM迁移到全新域名：crm.saleswork.cn，OpenAPI域名迁移至�
 
 业绩目标支持设置成员，业绩考核指标的数量限制增加到5个
 
-<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-021.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="//swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-021.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-022.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="//swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-022.png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**工作流发送用户优化**</mark>
 
 工作流消息通知支持配置用户相关变量，比如数据归属人的直属上级、归属人的部门负责人等
 
-<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-023.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="//swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-023.png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**其他优化**</mark>
 
@@ -647,11 +647,11 @@ SalesWork CRM迁移到全新域名：crm.saleswork.cn，OpenAPI域名迁移至�
 
 新增电脑端列表页布局设置，用于对应用端数据表头进行统一设置，你可以在管理后台的应用布局页进行设置
 
-<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-024.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="//swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-024.png" alt=""><figcaption></figcaption></figure>
 
 导航设置可以强制推送给所有用户，你可以在管理后台的「页面管理」-「导航设置」中进行设置、
 
-<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-025.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="//swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-025.png" alt=""><figcaption></figcaption></figure>
 
 ### `v4.10.1` 2022.03.31
 
@@ -659,7 +659,7 @@ SalesWork CRM迁移到全新域名：crm.saleswork.cn，OpenAPI域名迁移至�
 
 新增数据转换后删除原数据功能，可在管理后台的「映射规则」扩展服务中进行设置
 
-<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-026.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="//swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-026.png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**其他优化**</mark>
 
@@ -675,7 +675,7 @@ SalesWork CRM迁移到全新域名：crm.saleswork.cn，OpenAPI域名迁移至�
 
 仪表盘图表的指标展示支持以“万”为单位，可以通过下图所示来进行设置
 
-<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-027.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="//swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-027.png" alt=""><figcaption></figcaption></figure>
 
 ### `v4.9.0` 2022.03.11
 
@@ -683,13 +683,13 @@ SalesWork CRM迁移到全新域名：crm.saleswork.cn，OpenAPI域名迁移至�
 
 * 数据增加批量编辑和批量变更参与人，其中变更参与人同时支持增加/减少指定用户。在数据列表选中多条数据后，会出现对应的功能按钮。
 
-<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-028.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="//swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-028.png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**其他优化**</mark>
 
 * 定位字段可定位范围增加100m和200m两个选项，移动端定位更精确
 
-<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-029.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="//swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-029.png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**缺陷修复**</mark>
 
@@ -707,7 +707,7 @@ SalesWork CRM迁移到全新域名：crm.saleswork.cn，OpenAPI域名迁移至�
 
 * 应用字段与数据的回收站功能，回收站中保存了用户最近15内删除的数据和字段信息，企业的超级管理员可以从「扩展服务」中进入并管理回收站中的数据。更具体的操作指引请参考：[SalesWork CRM 管理后台帮助文档](https://leanwork.feishu.cn/docs/doccnVOrVZqkkTVZCG2WOol8ssh)
 
-<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-030.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="//swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-030.png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**其他优化**</mark>
 
@@ -760,11 +760,11 @@ SalesWork CRM迁移到全新域名：crm.saleswork.cn，OpenAPI域名迁移至�
 
 比如，下面的示例中，在子表单「联系人列表」中的联系人来自客户应用下的联系人
 
-<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-031.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="//swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-031.png" alt=""><figcaption></figcaption></figure>
 
 在不选择「关联客户」的情况下，在选择「联系人」时，将展示所有联系人(如下图左所示)，而当选择关联客户后，将只展示关联了客户A的联系人(如下图右所示)。想要启用此功能，只需要在配置「联系人列表」的字段时增加字段过滤条件即可。
 
-<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-032.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="//swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2021-032.png" alt=""><figcaption></figcaption></figure>
 
 ### `v4.7.6` 2022.02.11
 
