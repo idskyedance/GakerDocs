@@ -28,7 +28,7 @@ SOP 是"Standard Operating Procedure"的缩写，中文意思是"标准作业程
 
 ## 三、集客云 SOP - 让成功可复制
 
-<figure><img src="https://gakerteam.feishu.cn/space/api/box/stream/download/asynccode/?code=YTkwYmJmMTcwM2FkNWY0ZDNlNDUwNjQ5YjE3NmE4ZDhfblcxbnhvaWpjdHduNThjSDNHcTJ3NTlEVmN1MWdYVnlfVG9rZW46SjVBcWJIWnN4b2J6NGt4eXFlWmNUUnZubmRnXzE3MjQxMjc4NTQ6MTcyNDEzMTQ1NF9WNA" alt=""><figcaption></figcaption></figure>
+<figure><img src="//swstatic.saleswork.cn/docs/usecase/usecase-001.png" alt=""><figcaption></figcaption></figure>
 
 企业实施落地 SOP 最常见的方式是编制详细的《作业指导手册》和《工作检查清单》，先对员工进行系统的培训教育，然后引导他们在作业过程中严格按照手册来和清单来执行。但现实中，很多公司耗费大量时间编制了厚厚的 SOP 手册，只是作为培训内容，并不能在实际作业过程中起到指导作用。
 
@@ -78,8 +78,6 @@ SOP 更重要的意义还在于，针对某项工作的 SOP，一定是代表了
 ## 五、如何使用“集客云 SOP”
 
 {% hint style="info" %}
-
-
 **示例场景：以下是为某家企业设计的“发货流程 SOP”**
 
 1. 【销售】创建销售发货单，发起审批
@@ -90,7 +88,7 @@ SOP 更重要的意义还在于，针对某项工作的 SOP，一定是代表了
 6. 【系统】检查发货单是否有关联的退货申请，通过退货金额判断是否入库，退货流程走到“已入库”时，自动将流转状态至"已退货"
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/whiteboard_exported_image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="//swstatic.saleswork.cn/docs/usecase/usecase-002.png" alt=""><figcaption></figcaption></figure>
 
 **借用这个示例，我们来详细说明如何使用系统完成 SOP 的落地**
 
@@ -106,9 +104,9 @@ SOP 更重要的意义还在于，针对某项工作的 SOP，一定是代表了
 * 已取消：结束状态，需手动点击流转
 * 已退货：结束状态，判断“已退款金额大于0”时，自动流转
 
-<figure><img src="https://gakerteam.feishu.cn/space/api/box/stream/download/asynccode/?code=OTI2Y2RjNDVkNzMyNDFmMDI0MWYxOTk5ZTQzNGFjN2Zfc1h5alhmN0hPYjk5a2paaU9MS01oQ1NOZkhvREZiZFBfVG9rZW46VnJrWWJ4dnlUb1JhRld4NllSZ2NDbVJLbnpnXzE3MjQxMjc4NTQ6MTcyNDEzMTQ1NF9WNA" alt=""><figcaption></figcaption></figure>
+<figure><img src="//swstatic.saleswork.cn/docs/usecase/usecase-003" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="//swstatic.saleswork.cn/docs/usecase/usecase-004" alt=""><figcaption></figcaption></figure>
 
 2. #### 设置节点任务，自动衔接指派任务
 
@@ -135,11 +133,11 @@ SOP 更重要的意义还在于，针对某项工作的 SOP，一定是代表了
 * 任务截止时间：默认为“实际发货时间之后的 7天”
 * 到期提醒：设置“任务截止时”提醒
 
-<figure><img src="https://gakerteam.feishu.cn/space/api/box/stream/download/asynccode/?code=YTdhODE5NWVjNWU5MzU3YjU4NzQ1YTliM2I4NmQzZTVfUW9xRHd6c0xJN3FMdGE0YWlYeWZDMTA4bGQxYXRDMjFfVG9rZW46WFVPVWI2N2hqb0dWeEt4UEFPcWNiSXg0bkNiXzE3MjQxMjc4NTQ6MTcyNDEzMTQ1NF9WNA" alt=""><figcaption></figcaption></figure>
+<figure><img src="//swstatic.saleswork.cn/docs/usecase/usecase-005.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="//swstatic.saleswork.cn/docs/usecase/usecase-006.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="//swstatic.saleswork.cn/docs/usecase/usecase-007.png" alt=""><figcaption></figcaption></figure>
 
 3. #### 设置任务攻略，指导员工规范作业
 
@@ -158,9 +156,9 @@ SOP 更重要的意义还在于，针对某项工作的 SOP，一定是代表了
 * 客户验收时间
 * 客户验收凭证
 
-<figure><img src="../../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="//swstatic.saleswork.cn/docs/usecase/usecase-008.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://gakerteam.feishu.cn/space/api/box/stream/download/asynccode/?code=N2MwOGE3ZGQ4ZjEyYmY1MTI4MzJjZDFhMjZmZmVmMTBfZ1VKM3M1ZVJKTUE3Z0c5d2JqejBPWnZRbXpFbzNUenpfVG9rZW46U0YwMmI3ZGhwb09iVEt4YXFxdWMxNkhhbjVmXzE3MjQxMjc4NTQ6MTcyNDEzMTQ1NF9WNA" alt=""><figcaption></figcaption></figure>
+<figure><img src="//swstatic.saleswork.cn/docs/usecase/usecase-009.png" alt=""><figcaption></figcaption></figure>
 
 4. #### 设置完成条件，一键提交任务反馈
 
@@ -170,15 +168,15 @@ SOP 更重要的意义还在于，针对某项工作的 SOP，一定是代表了
 
 在【完成发货并反馈发货信息】任务设置中，添加【任务完成条件】，必填销售发货表单中的“实际发货时间、物流单号、物流凭证”字段。
 
-<figure><img src="https://gakerteam.feishu.cn/space/api/box/stream/download/asynccode/?code=OTgxMTJlM2I4MTg4OGJkYjFkYTg2MWJjZjRlOTkyMDhfWnU3VmM4MGp1Y3kxMkptZ0J1Zmw5QzdiaEc0aXlrWGFfVG9rZW46UHN1SWJiUlQzbzBsUTN4N0dxY2Mzd2RGbk9iXzE3MjQxMjc4NTQ6MTcyNDEzMTQ1NF9WNA" alt=""><figcaption></figcaption></figure>
+<figure><img src="//swstatic.saleswork.cn/docs/usecase/usecase-010.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://gakerteam.feishu.cn/space/api/box/stream/download/asynccode/?code=OTY0YzZmMjNhMWRiMTVmYmVhYjVkN2U5ODgyYjIzZmJfVjJWN3U5ME9WdjY4ZkJEVTRObnJHdU1KN3NyOFhkNUxfVG9rZW46S05ZVGJROFFQb2k5WGp4Q0RFeWNCTXpXbkRmXzE3MjQxMjc4NTQ6MTcyNDEzMTQ1NF9WNA" alt=""><figcaption></figcaption></figure>
+<figure><img src="//swstatic.saleswork.cn/docs/usecase/usecase-011.png" alt=""><figcaption></figcaption></figure>
 
 在【找客户完成验收并反馈验收信息】任务设置中，添加【任务完成条件】，必填销售发货表单中的“客户验收时间、验收凭证”字段。
 
-<figure><img src="https://gakerteam.feishu.cn/space/api/box/stream/download/asynccode/?code=ZmQxMjk3YTI1OGMyYmFlZDRmMGI5YjdjZjliYzU0NzJfaHpObHNCNFpIUzVWbVlCa3l6TXQ2a05HWjNiWUM2MEhfVG9rZW46UW93cWJjbmlGb1ZtV0V4T2VqR2NKam9QbkpiXzE3MjQxMjc4NTQ6MTcyNDEzMTQ1NF9WNA" alt=""><figcaption></figcaption></figure>
+<figure><img src="//swstatic.saleswork.cn/docs/usecase/usecase-012.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://gakerteam.feishu.cn/space/api/box/stream/download/asynccode/?code=NTU0ZDU4YjMzMTM2ZDVlY2RjOTJmNTkxMmU1YTgwOGFfaGJuZWdwY05VT2FDUnZmNHhyQUJ3WVIwc2k0ZEdhYjBfVG9rZW46VHp6cGJ5YXR1bzczaXV4OXV3dmN2SkVFbnpjXzE3MjQxMjc4NTQ6MTcyNDEzMTQ1NF9WNA" alt=""><figcaption></figcaption></figure>
+<figure><img src="//swstatic.saleswork.cn/docs/usecase/usecase-013.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -193,5 +191,4 @@ SOP 更重要的意义还在于，针对某项工作的 SOP，一定是代表了
 * **线索挖掘机器人**：支持在【线索 SOP】中添加【线索挖掘机器人】，为机器人准确描述目标客户画像并建立线索评分规则，由机器人先在全网检索匹配画像的客户名单、收集联系方式和客户画像信息并自动进行评分，自动将符合要求的线索录入系统，通知销售去验收跟进，根据销售跟进的反馈，自动优化检索策略和评分机制，持续训练让机器人能挖掘出更多质量合格的线索。
 * **商机洞察机器人**：支持在【客户/商机/项目 SOP】中添加【商机洞察机器人】，在销售录入客户、商机或项目后，由机器人根据“客户名称”自动在“工商查询库、搜索引擎、客户官网、招聘网站、社交媒体、招投标网站”等渠道查询客户动态，持续捕捉并整理可能对公司产品产生需求的商机情报，自动填入跟进记录，为销售人员提供决策支持。
 
-**联系“**[**在线客服**](https://applink.feishu.cn/Td5Qjh6v)**”咨询或试用 集客云 SOP，让成功可复制**\
-\
+**联系“**[**在线客服**](https://applink.feishu.cn/Td5Qjh6v)**”咨询或试用 集客云 SOP，让成功可复制**
