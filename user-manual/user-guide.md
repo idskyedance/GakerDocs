@@ -1,5 +1,3 @@
-# 新用户入门
-
 # 1. 全局流程
 ![](//swstatic.saleswork.cn/docs/usermanual/user-guide-001.png)
 
