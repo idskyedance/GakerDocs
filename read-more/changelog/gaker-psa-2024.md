@@ -18,17 +18,17 @@ description: 集客云每天更新客户反馈的问题和优化、每周更新�
 
 首先，我们支持目标模板，方便管理员和用户快速创建目标
 
-<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption><p>目标模板配置</p></figcaption></figure>
+<figure><img src="//swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2024-01.png" alt=""><figcaption><p>目标模板配置</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption><p>新建目标模板</p></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2024-02.png" alt=""><figcaption><p>新建目标模板</p></figcaption></figure>
 
 其次，创建目标时，既支持给自己创建目标，也支持给自己的下级设置目标
 
-<figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2024-03.png" alt=""><figcaption></figcaption></figure>
 
 最后，除了之前的对齐页面，我们还增加了表格视图，方便管理者从全局视角查看和管理团队的目标和业绩
 
-<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2024-04.png" alt=""><figcaption></figcaption></figure>
 
 ### `v4.32.16` 2024.07.20
 
@@ -38,7 +38,7 @@ description: 集客云每天更新客户反馈的问题和优化、每周更新�
 
 你可以在点击首页的助手按钮，尝试这个功能：
 
-<figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption><p>首页导航菜单</p></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2024-05.png" alt=""><figcaption><p>首页导航菜单</p></figcaption></figure>
 
 这个版本中，我们还对应用端的很多 UI 细节做了优化，希望能给你更好的体验。
 
@@ -48,9 +48,9 @@ description: 集客云每天更新客户反馈的问题和优化、每周更新�
 
 在业务流程状态列表增加一列“SOP设置”入口，以支持流程达到特定状态时，系统通过自动化工作流，执行“数据操作、消息通知、创建代办任务”等动作，强大的业务流程自动化从这个功能开启！
 
-<figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption><p>状态定义</p></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2024-06.png" alt=""><figcaption><p>状态定义</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption><p> SOP 配置</p></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2024-07.png" alt=""><figcaption><p> SOP 配置</p></figcaption></figure>
 
 <mark style="color:orange;">**功能优化**</mark>
 
@@ -74,21 +74,21 @@ description: 集客云每天更新客户反馈的问题和优化、每周更新�
 
 **状态说明**
 
-<figure><img src="../../.gitbook/assets/image (53).png" alt=""><figcaption><p>状态说明配置</p></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2024-08.png" alt=""><figcaption><p>状态说明配置</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption><p>状态说明展示效果</p></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2024-09.png" alt=""><figcaption><p>状态说明展示效果</p></figcaption></figure>
 
 **审批要求**
 
-<figure><img src="../../.gitbook/assets/image (55).png" alt=""><figcaption><p>审批要求配置</p></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2024-10.png" alt=""><figcaption><p>审批要求配置</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption><p>审批要求展示效果</p></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2024-11.png" alt=""><figcaption><p>审批要求展示效果</p></figcaption></figure>
 
 **任务攻略**
 
-<figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption><p>任务攻略配置</p></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2024-12.png" alt=""><figcaption><p>任务攻略配置</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (58).png" alt=""><figcaption><p>任务攻略展示效果</p></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2024-13.png" alt=""><figcaption><p>任务攻略展示效果</p></figcaption></figure>
 
 <mark style="color:orange;">**功能优化**</mark>
 
@@ -101,9 +101,9 @@ description: 集客云每天更新客户反馈的问题和优化、每周更新�
 
 线下完成的任务需要到系统中记录并反馈，如果担心员工完成任务后忘记填写、找不到操作入口或者填错位置，可以设置任务完成条件，用户只需点击【完成任务】按钮，就能直接弹出需要填写的表单及字段，既不会遗忘也不会填错。比如，在【完成发货并反馈发货信息】任务设置中，添加【任务完成条件】，必填销售发货表单中的“实际发货时间、物流单号、物流凭证”字段。
 
-<figure><img src="../../.gitbook/assets/image (59).png" alt=""><figcaption><p>任务完成条件配置</p></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2024-14.png" alt=""><figcaption><p>任务完成条件配置</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (60).png" alt=""><figcaption><p>完成任务时弹出表单让用户填写</p></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2024-15" alt=""><figcaption><p>完成任务时弹出表单让用户填写</p></figcaption></figure>
 
 当用户勾选完成任务时，则会弹出数据表单让用户填写实际发货时间、物流单号、物流凭证等数据。
 
@@ -120,7 +120,7 @@ description: 集客云每天更新客户反馈的问题和优化、每周更新�
 
 在实际的业务场景下，我们经常会遇到需要多人协作的场景。比如，在发货审批通过后，需要通知出库负责人去线下完成出库并在系统上提交出库信息。发货完成后，需要提醒销售去线下找客户完成验收并在系统上提交验收信息。这时候，我们可以在销售发货单进入某些状态后，给对应的处理人创建待办任务，提醒到应该做什么事。相较于消息通知，待办任务通知更及时，更方便。你可以在「管理后台」中配置：
 
-<figure><img src="../../.gitbook/assets/image (61).png" alt=""><figcaption><p>新建待办任务节点</p></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2024-16.png" alt=""><figcaption><p>新建待办任务节点</p></figcaption></figure>
 
 <mark style="color:orange;">**功能优化**</mark>
 
@@ -136,7 +136,7 @@ description: 集客云每天更新客户反馈的问题和优化、每周更新�
 
 在复杂业务场景下，为满足一个需求，往往需要配置多个工作流程。为了减少配置的复杂程度，这个版本为工作流增加了分支节点。
 
-<figure><img src="../../.gitbook/assets/image (62).png" alt=""><figcaption><p>工作流程节点分支</p></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2024-17" alt=""><figcaption><p>工作流程节点分支</p></figcaption></figure>
 
 <mark style="color:orange;">**审批支持飞书消息卡片**</mark>
 
@@ -144,7 +144,7 @@ description: 集客云每天更新客户反馈的问题和优化、每周更新�
 
 审批消息卡片：底部展示“通过、驳回、查看详情”三个按钮，点击“通过、驳回”按钮，无需侧弹窗，直接在消息窗口完成操作，点击查看详情在侧弹窗操作“通过、驳回”以及评论等其他操作。
 
-<figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption><p>审批卡片示例</p></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2024-18.png" alt=""><figcaption><p>审批卡片示例</p></figcaption></figure>
 
 ### `v4.31.5` 2024.05.10
 
@@ -154,7 +154,7 @@ description: 集客云每天更新客户反馈的问题和优化、每周更新�
 
 在这个版本中，你可以在管理后台的「基础数据权限」中进行设置：
 
-<figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption><p>基础权限设置</p></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2024-19.png" alt=""><figcaption><p>基础权限设置</p></figcaption></figure>
 
 <mark style="color:orange;">**优化业务流程锁定**</mark>
 
@@ -165,7 +165,7 @@ description: 集客云每天更新客户反馈的问题和优化、每周更新�
 
 如果工作流修改的字段是多选用户时，支持选择当前应用的关联应用的不同用户字段，以适应更多的业务场景，具体的配置如下图所示。
 
-<figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption><p>修改数据时用户列表字段支持设置关联应用用户类型字段</p></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2024-20.png" alt=""><figcaption><p>修改数据时用户列表字段支持设置关联应用用户类型字段</p></figcaption></figure>
 
 ### `v4.31.0` 2024.04.07
 
@@ -173,7 +173,7 @@ description: 集客云每天更新客户反馈的问题和优化、每周更新�
 
 为时间类型字段增加了「日期格式」属性，支持多个纬度对时间进行编辑和展示，比如当你设置日期格式为“年-季度”时，那么字段在编辑时，仅需要选择季度即可。
 
-<figure><img src="../../.gitbook/assets/image (66).png" alt=""><figcaption><p>时间字段配置</p></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2024-21.png" alt=""><figcaption><p>时间字段配置</p></figcaption></figure>
 
 **优化审批流程**
 
@@ -181,7 +181,7 @@ description: 集客云每天更新客户反馈的问题和优化、每周更新�
 * 超级管理员可以看到系统的所有审批，并可对审批进行非审批(通过、驳回)外的所有操作
 * 审批增加自动催办设置，超过多少时间未审批，自动催办，你可以在审批节点中进行配置
 
-<figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption><p>审批时效设置</p></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2024-22.png" alt=""><figcaption><p>审批时效设置</p></figcaption></figure>
 
 ### `v4.30.0` 2024.03.21
 
@@ -189,25 +189,25 @@ description: 集客云每天更新客户反馈的问题和优化、每周更新�
 
 数字、金额、百分比类型的字段支持“限定数值范围”设置，数值范围不仅支持设置纯数字，也支持设置变量，比如下面的报价单明细中的「数量」应当小于「产品可用库存」。
 
-<figure><img src="../../.gitbook/assets/image (68).png" alt=""><figcaption><p>字段校验配置</p></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2024-23.png" alt=""><figcaption><p>字段校验配置</p></figcaption></figure>
 
 <mark style="color:orange;">**新增周期性日期函数**</mark>
 
 `PERIODICDATE`函数会在每天凌晨更新为当天的日期。当你想要计算某个日期距离今天的天数，配置如下图中的公式即可，然后系统会每天更新计算结果，得到最新的值。
 
-<figure><img src="../../.gitbook/assets/image (69).png" alt=""><figcaption><p>PERIODICDATE 函数</p></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2024-24.png" alt=""><figcaption><p>PERIODICDATE 函数</p></figcaption></figure>
 
 <mark style="color:orange;">**列表筛选支持在管理后台统一设置**</mark>
 
 应用的筛选组件的字段以及顺序支持在管理后台统一设置了，你可以为公司统一设置每个应用使用哪些字段来过滤。你可以在「应用设置」中的「筛选条件」中进行配置。
 
-<figure><img src="../../.gitbook/assets/image (70).png" alt=""><figcaption><p>列表筛选条件配置</p></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2024-25.png" alt=""><figcaption><p>列表筛选条件配置</p></figcaption></figure>
 
 <mark style="color:orange;">**审批变量支持选择上个抄送节点的人员**</mark>
 
 审批人、抄送人节点的变量均支持“上一抄送节点执行人、上一抄送节点的直属上级、上一审批节点执行人的部门负责人”
 
-<figure><img src="../../.gitbook/assets/image (71).png" alt=""><figcaption><p>审批人设置</p></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2024-26.png" alt=""><figcaption><p>审批人设置</p></figcaption></figure>
 
 ### `v4.29.0` 2024.03.08
 
@@ -215,7 +215,7 @@ description: 集客云每天更新客户反馈的问题和优化、每周更新�
 
 1. “成员”、“管理员”、“部门与成员”三个菜单合并为“组织架构”菜单，结构更清晰，操作更方便
 
-<figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption><p>管理后台导航菜单</p></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2024-27.png" alt=""><figcaption><p>管理后台导航菜单</p></figcaption></figure>
 
 2. 新增离职继承功能
 
@@ -225,9 +225,9 @@ description: 集客云每天更新客户反馈的问题和优化、每周更新�
 * 移除人员作为参与人的数据，其参与人中的移除人员将替换成交接人
 * 移除人员的待审批的流程将全部移交给交接人审批
 
-<figure><img src="../../.gitbook/assets/image (73).png" alt=""><figcaption><p>移除用户</p></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2024-28.png" alt=""><figcaption><p>移除用户</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (74).png" alt=""><figcaption><p>移交数据</p></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2024-29.png" alt=""><figcaption><p>移交数据</p></figcaption></figure>
 
 <mark style="color:orange;">**优化工商查询**</mark>
 
@@ -235,7 +235,7 @@ description: 集客云每天更新客户反馈的问题和优化、每周更新�
 
 使用工商查询模糊搜索公司信息后，系统会使用你选择的结果进行查重，如果发现有相同的客户，将直接提示。你可以在工商查询中开启此功能。
 
-<figure><img src="../../.gitbook/assets/image (75).png" alt=""><figcaption><p>数据查重</p></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2024-30.png" alt=""><figcaption><p>数据查重</p></figcaption></figure>
 
 2. 工商查询字段支持快捷编辑
 
@@ -254,7 +254,7 @@ description: 集客云每天更新客户反馈的问题和优化、每周更新�
 
 想要启用新功能，你可以进入管理后台的审批流程服务中进行相关配置，如下图所示。
 
-<figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption><p>审批配置</p></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2024-31.png" alt=""><figcaption><p>审批配置</p></figcaption></figure>
 
 <mark style="color:orange;">**优化归属人和参与人字段配置**</mark>
 
@@ -262,13 +262,13 @@ description: 集客云每天更新客户反馈的问题和优化、每周更新�
 
 这个版本中，我们支持将从对象的参与人和归属人修改为引用字段，引用主对象的参与人和归属人，那么从对象就可以自动跟随主对象的参与人和归属人，保持权限一致。你可以在应用配置中进行相关配置。
 
-<figure><img src="../../.gitbook/assets/image (77).png" alt=""><figcaption><p>归属人配置</p></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2024-32.png" alt=""><figcaption><p>归属人配置</p></figcaption></figure>
 
 <mark style="color:orange;">**优化Web端新建页**</mark>
 
 当应用字段过多时，新建应用数据时的页面会显得很凌乱，对此，我们对新建页做了优化，字段支持分栏显示，比如：
 
-<figure><img src="../../.gitbook/assets/image (78).png" alt=""><figcaption><p>新建页分栏展示</p></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2024-33.png" alt=""><figcaption><p>新建页分栏展示</p></figcaption></figure>
 
 目前新建页、编辑页、数据转换页均已支持，但整个功能仅支持Web端，移动端正在开发中，后续随其他功能更新。
 
@@ -282,7 +282,7 @@ description: 集客云每天更新客户反馈的问题和优化、每周更新�
 * 销售订单 + 订单明细 → 服务单 + 服务明细
 * 销售订单 + 订单明细 → 开票 + 开票明细
 
-<figure><img src="../../.gitbook/assets/image (79).png" alt=""><figcaption><p>应用映射配置</p></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2024-34.png" alt=""><figcaption><p>应用映射配置</p></figcaption></figure>
 
 本次更新主要包含：
 
