@@ -10,13 +10,13 @@
 
 也欢迎大家关注我们的全新公众号与我们互动交流！
 
-<figure><img src="../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2023-01.png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**全新PC端工作台上线**</mark>
 
 如下图所示，全新的PC端工作台包含5个部分：我的待办、我的目标、数据看板、最新动态和关注事项。
 
-<figure><img src="../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2023-02.png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**我的待办**</mark>
 
@@ -82,11 +82,11 @@
 
 不少业务场景都需要批量新增数据，比如：当您创建订单明细时，通常需要关联产品。您可以设置为从产品字段添加明细，这样可以直接选择多个产品，并为每个产品添加一行订单明细。为满足类似的业务场景，这个版本中增加了批量新增的功能，你可以在管理后台对应应用的应用设置中开启，如下图所示。
 
-<figure><img src="../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2023-03.png" alt=""><figcaption></figcaption></figure>
 
 选项开启后，在PC端，新建按钮将变成批量新建按钮，如下图所示。
 
-<figure><img src="../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2023-04.png" alt=""><figcaption></figcaption></figure>
 
 数据详情页的快捷编辑，也会同步替换成批量新增。批量新增目前有如下限制：
 
@@ -104,7 +104,7 @@
 * 当你点击点赞按钮时，会弹出表情选项，点击后将点赞信息展示在跟进内容下方，再次点击可删除点赞信息，目前我们提供8个常用表情选项：👍 点赞，🎉 祝贺，🙏 感谢，💪 加油，👌 收到，🤝 握手，🫰比心 ，✌️ 胜利
 * 点击评论按钮，会在跟进内容下方展示评论内容和新建评论输入框，输入内容点击评论可提交评论，支持在评论中@相关同学，@后系统自动通过飞书消息和系统消息形式向被@的用户发送该条评论信息
 
-<figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2023-05.png" alt=""><figcaption></figcaption></figure>
 
 ### `v4.23.0` 2023.05.08
 
@@ -116,7 +116,7 @@ SalesWorkCRM服务的客户越来越多，我们的客户服务团队在不同�
 
 > 更多的行业模板逐步开放中，已开放的模板我们也会不断的优化，欢迎体验。
 
-<figure><img src="../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2023-06.png" alt=""><figcaption></figcaption></figure>
 
 ### `v4.22.0` 2023.03.08
 
@@ -124,7 +124,7 @@ SalesWorkCRM服务的客户越来越多，我们的客户服务团队在不同�
 
 小程序端工作台全新改版，新版移动端工作台整体分为“快捷搜索、应用导航、数据看板、动态列表、审批列表、快捷新增”6个功能模块，如下图所示，其中「任务」和「审批」等模块将在后期优化。
 
-<figure><img src="../../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2023-07.png" alt=""><figcaption></figcaption></figure>
 
 1.  快捷搜索
 
@@ -148,7 +148,7 @@ SalesWorkCRM服务的客户越来越多，我们的客户服务团队在不同�
 
 如果用户有应用的数据新增权限，可以在应用数据顶部的菜单中找到“导入”入口，如下图所示。
 
-<figure><img src="../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2023-08.png" alt=""><figcaption></figcaption></figure>
 
 在应用端导入数据时，会受系统规则限制：
 
@@ -177,28 +177,28 @@ SalesWorkCRM服务的客户越来越多，我们的客户服务团队在不同�
 
 你可以在管理后台增加富文本字段，同时动态(跟进记录)输入框也采用了最新的富文本，你可以直接上手体验
 
-<figure><img src="../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2023-09.png" alt=""><figcaption></figcaption></figure>
 
 **全新动态(跟进记录)**之前动态仅支持展示用户填写的跟进记录以及简单的审批信息，不少客户提出希望动态支持更多关键信息的展示。为此，我们对数据的关键信息做了如下分类：
 
 * “人员变更”动态类型，展示每次人员变更记录
 
-<figure><img src="../../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2023-10.png" alt=""><figcaption></figcaption></figure>
 
 * “状态变更”动态类型，展示每次状态变更记录
 
-<figure><img src="../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2023-11.png" alt=""><figcaption></figcaption></figure>
 
 * “新建数据”动态类型，展示时间新增记录
 * “审批”动态类型，展示全部审批记录
 
-<figure><img src="../../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2023-12.png" alt=""><figcaption></figcaption></figure>
 
 * “其他”动态类型，展示数据转换操作、公海池操作等关键操作记录
 
 与此同时，我们还支持汇总展示关联从应用3个类型的关键事件：“新建数据、跟进记录、状态变更”，例如客户下有关联的商机、报价单、合同应用，那么可汇总展示所有关联商机、报价单、合同的“新建数据、跟进记录、状态变更”信息。
 
-<figure><img src="../../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2023-13.png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**全新消息提醒**</mark>
 
@@ -206,7 +206,7 @@ SalesWorkCRM服务的客户越来越多，我们的客户服务团队在不同�
 
 同时，所有的飞书消息，在电脑端点击“查看详情”按钮后，会从侧边栏直接展开移动端详情，比如：
 
-<figure><img src="../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2023-14.png" alt=""><figcaption></figcaption></figure>
 
 系统自动提醒的消息类型包含：
 
@@ -229,4 +229,4 @@ SalesWorkCRM服务的客户越来越多，我们的客户服务团队在不同�
 
 所有的消息在飞书都以卡片消息的形式发送给对应的通知人，消息格式示例如下：
 
-<figure><img src="../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://swstatic.saleswork.cn/docs/changelog/2023/psa-changelog-2023-15.png" alt=""><figcaption></figcaption></figure>
