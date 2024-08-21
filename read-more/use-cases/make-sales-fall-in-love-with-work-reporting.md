@@ -28,7 +28,6 @@
 **不足**：预设的指标不支持自定义，可能无法满足不同企业对不同业绩指标的汇报要求；此外日报中领导通常需要了解当天一些重点客户跟进情况，销售在跟进过程中通常在 CRM 中会填写客户跟进记录，但钉钉日志并不支持一键插入填过的跟进记录。
 
 ![](//swstatic.saleswork.cn/docs/usecase/usecase-014.png)
-
 ![](//swstatic.saleswork.cn/docs/usecase/usecase-015.png)
 
 ### 飞书工作汇报
@@ -66,11 +65,9 @@
 
 点击即可一键插入这个时间端内，销售在系统中填写过的跟进记录列表，支持调整内容和格式，还贴心的把同一条数据下填写的多条跟进记录合并单元格，方便查看同一个客户在周期内多次跟进的记录。
 
-<figure><img src="//swstatic.saleswork.cn/docs/usecase/usecase-019.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="//swstatic.saleswork.cn/docs/usecase/usecase-020.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="//swstatic.saleswork.cn/docs/usecase/usecase-021.png" alt=""><figcaption></figcaption></figure>
+![](//swstatic.saleswork.cn/docs/usecase/usecase-019.png)
+![](//swstatic.saleswork.cn/docs/usecase/usecase-020.png)
+![](//swstatic.saleswork.cn/docs/usecase/usecase-021.png)
 
 ### **亮点2**：一键插入业绩指标
 
@@ -82,11 +79,9 @@
 
 点击即可一键插入这个时间端内新增业绩指标数据，为销售节约了很多登入CRM系统查询统计数据的时间。
 
-<figure><img src="//swstatic.saleswork.cn/docs/usecase/usecase-022.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="//swstatic.saleswork.cn/docs/usecase/usecase-023.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="//swstatic.saleswork.cn/docs/usecase/usecase-024.png" alt=""><figcaption></figcaption></figure>
+![](//swstatic.saleswork.cn/docs/usecase/usecase-022.png)
+![](//swstatic.saleswork.cn/docs/usecase/usecase-023.png)
+![](//swstatic.saleswork.cn/docs/usecase/usecase-024.png)
 
 ## 如何开通使用？
 
@@ -95,16 +90,19 @@
 ### 步骤一：应用设置
 
 管理员在管理后台配置并启用【工作汇报】应用，调整导航至【销售管理】菜单下
-<figure><img src="//swstatic.saleswork.cn/docs/usecase/usecase-025.png" alt=""><figcaption></figcaption></figure>
-<figure><img src="//swstatic.saleswork.cn/docs/usecase/usecase-026.png" alt=""><figcaption></figcaption></figure>
+
+![](//swstatic.saleswork.cn/docs/usecase/usecase-025.png)
+![](//swstatic.saleswork.cn/docs/usecase/usecase-026.png)
 
 ### 步骤二：角色权限设置
 
 在角色权限中为销售勾选工作报告的“查看、新增、编辑、删除”权限
-<figure><img src="//swstatic.saleswork.cn/docs/usecase/usecase-027.png" alt=""><figcaption></figcaption></figure>
+
+![](//swstatic.saleswork.cn/docs/usecase/usecase-027.png)
 
 ### 步骤三：业绩指标设置
 
 如需启动插入业绩指标功能，需要管理员在管理后台为销售角色添加需要考核的业绩指标
-<figure><img src="//swstatic.saleswork.cn/docs/usecase/usecase-028.png" alt=""><figcaption></figcaption></figure>
-<figure><img src="//swstatic.saleswork.cn/docs/usecase/usecase-029.png" alt=""><figcaption></figcaption></figure>
+
+![](//swstatic.saleswork.cn/docs/usecase/usecase-028.png)
+![](//swstatic.saleswork.cn/docs/usecase/usecase-029.png)
