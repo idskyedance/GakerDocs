@@ -4,6 +4,30 @@ description: 集客云每天更新客户反馈的问题和优化、每周更新�
 
 # 集客云 PSA 2024
 
+### `v4.34.0` 2024.08.20
+
+<mark style="color:orange;">**自定义应用校验规则**</mark>
+
+在创建和编辑数据时，通过设定校验规则，来屏蔽一些不合法的操作，然后提醒给操作人员。这样，可以更加灵活的支撑各种场景下的表单校验，你可以在「应用设置」的「表单校验」中进行相关配置。
+
+<figure><img src="//swstatic.saleswork.cn/docs/changelog/2023/object_validate_rule.jpg" alt=""><figcaption><p>表单校验配置</p></figcaption></figure>
+
+<mark style="color:orange;">**公海池增加新的手动分配规则**</mark>
+
+公海池分配规则中新增手动分配规则：公海成员可见不可领取，管理员主动分配。在这种分配规则下，公海成员可以看到公海池中的所有数据，但不能领取。当成员需要其中的数据时，需要主动向负责人申请，然后由负责人分配给他。
+
+你可以在「扩展插件」->「公海池」配置中开启此分配规则。
+
+<figure><img src="//swstatic.saleswork.cn/docs/changelog/2023/pool_alloacte.jpg" alt=""><figcaption><p>公海池分配规则设置</p></figcaption></figure>
+
+### `v4.33.2` 2024.08.10
+
+<mark style="color:orange;">**增强富文本**</mark>
+
+富文本增加了“插入跟进记录”和“插入业绩指标”两个功能，用于支持各种工作汇报的场景。具体的应用场景，可以参考：[从此，让销售爱上工作汇报](../use-cases/make-sales-fall-in-love-with-work-reporting.md)
+
+<figure><img src="//swstatic.saleswork.cn/docs/changelog/2023/rich_text_strengthen.png" alt=""><figcaption><p>工作汇报示例</p></figcaption></figure>
+
 ### `v4.33.0` 2024.08.06
 
 <mark style="color:orange;">**目标管理支持自上而下的 KPI 管理**</mark>
