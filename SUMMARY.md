@@ -9,7 +9,7 @@
 * [新用户入门](user-manual/user-guide.md)
 * [管理员入门](user-manual/admin-guide.md)
 
-## 研发 <a href="#developer" id="developer"></a>
+## 开发指南 <a href="#developer" id="developer"></a>
 
 * [Gaker PaaS API](developer/gaker-paas-api/README.md)
   * [通讯录](developer/gaker-paas-api/organization.md)
